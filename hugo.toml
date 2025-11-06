@@ -1,0 +1,4 @@
+baseURL = 'https://tarotswift.me/'
+languageCode = 'en-us'
+title = 'TarotSwift - Personal Astrology Readings'
+theme = 'mytheme'
